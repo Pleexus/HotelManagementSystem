@@ -1,8 +1,8 @@
 # HotelManagementSystem
 
-#Description
+# Description
 A hotel management Software made using C++
 
-#Author
+# Author
 Prajwal Bisht
-@Pleexus
+@ Pleexus
